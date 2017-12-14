@@ -1,2 +1,2 @@
 # parakrant.github.io
-This my wesite. 
+This my website. 
