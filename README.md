@@ -1,2 +1,2 @@
-# parakrant.github.io
-This my website. 
+# parakrant.github
+Portfolio Website
